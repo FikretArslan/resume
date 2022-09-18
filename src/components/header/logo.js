@@ -8,12 +8,12 @@ const Logo = () => {
           className="img-fluid rounded-pill d-block"
           //src="images/profile.jpg.jfif"
           src="images/resim.jpg"
-          title="I'm Leyla"
+          title="I'm Fikret"
           alt=""
         />
       </span>
       <h1 className="text-5 text-white text-center mb-0 d-lg-block">
-        Leyla Arslan
+        Fikret Arslan
       </h1>
     </a>
   );
